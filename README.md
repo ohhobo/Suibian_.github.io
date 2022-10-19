@@ -1,44 +1,68 @@
-## Welcome to Team-Suibian
-
-**Zhiji**
-
-For more details see [Github](https://github.com/Liesy).
+#                                                                       **ZhiJi**
 
 ### Introduction
 
-I'm an undergraduate student of Artificial Intelligence Class of 2019 (19级智能班), in School of Computer Science and Technology [计算机科学与技术学院](https://www.cs.sdu.edu.cn/), Shandong University [山东大学](https://www.sdu.edu.cn/). 
+- 在日常生活中，大学生往往对未来的职业充满困惑，感到迷茫或者焦虑。互联网上，职业相关话题引起热议，如知乎上“所学职业与未来工作不对口怎么办”的话题一度登上热搜榜单；越来越多人对职场定制服务表现出付费倾向，在淘宝上，简历代做月销上万。为了解决大学生、求职者职业焦虑、职场定位迷茫的痛点问题，职记APP 应运而生。
 
-- Email: preposterous@163.com
-- QQ: 1070180785
-- Address: Shandong University, Jimo, Tsingtao, China, 266237
+### **Members**
 
-### Education
+| **姓名**   | **学号**     | **联系方式** |
+| ---------- | ------------ | ------------ |
+| 陈怡然     | 201922161291 | 15069181959  |
+| 陶雨轩     | 201900130123 | 17863912818  |
+| 李新成     | 201900130116 | 17863978660  |
+| 奥布力亚森 | 201901130180 | 13175312021  |
 
-- Regular College Course: Shandong University, Sep 2019 - Now
+### **Collecting Data**
 
-### Repositories
+- 您就读的大学是？
 
-- [Leetcode](https://github.com/Liesy/Leetcode)
-- [CUMCM2021 2021数学建模B题](https://github.com/Liesy/CUMCM2021)
-- Feb 2022 - Now 大三下学期
-  - [Natural Language Processing 自然语言处理](https://github.com/Liesy/Natural-Language-Processing)
-  - [Cognitive Science and Brainlike Computing 认知科学与类脑计算](https://github.com/Liesy/Cognitive-Science-and-Brainlike-Computing)
+  答：略
 
-- Sep 2021 - Jan 2022 大三上学期
-  - [Deep Learning 深度学习](https://github.com/Liesy/deep-learning)
-  - [Computer Vision 计算机视觉](https://github.com/Liesy/computer-vision)
-  - [Information Retrieval 信息检索](https://github.com/Liesy/Information-Retrieval)
-  - [Data Visualization 可视化](https://github.com/Liesy/Data-Visualization)
+- 您的学号是？（便于我们筛选有效问卷，不会泄露您的隐私）
 
-- Mar 2021 - Jue 2021 大二下学期
-  - [Thinking and Practice in Programming 程序设计思维与实践](https://github.com/Liesy/Thinking-and-Practice-in-Programming)
-  - [Machine Learning 机器学习](https://github.com/Liesy/machine-learning)
-  - [Computer Networking 计算机网络](https://github.com/Liesy/computer-networking)
-  - [Computer Graphics 计算机图形学](https://github.com/Liesy/computer-graphics)
-  - [Operating System Concepts 操作系统](https://github.com/Liesy/operating-system-concepts)
-  - [Robotics 机器人学导论](https://github.com/Liesy/Robotics)
- 
-- Sep 2020 - Jan 2021 大二上学期
-  - [Computer Organization and Architecture 计算机组成原理](https://github.com/Liesy/computer-organization-and-architecture)
-  - [Database System Concepts 数据库系统概念](https://github.com/Liesy/database-system-concept)
-  - [Data Structures, Algorithms and Applications 数据结构与算法](https://github.com/Liesy/data-structure)
+  答:   略
+
+- 您对未来读研、求职、入职是否感到焦虑或迷茫？
+  
+  ![image-20221019221305389](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221019221305389.png)
+
+- 若一个职场APP，能帮助您了解自己适合何种职业，定制职场产品（如简历、自我介绍、行业入门技能培训），您对该APP的需求程度是？
+  
+  ![image-20221019221413529](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221019221413529.png)
+  
+- 您为什么不需要这款软件？
+  
+  ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+  
+- 您为什么需要这款软件？
+  
+  ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+  
+- 若该APP设置职场推文模块，您会对以下哪些板块更感兴趣？
+
+  ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+  
+- 您希望有哪些定制服务？
+  
+  ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+  
+- 您日常使用的职场类工具有哪些？
+  
+  ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
+  
+- 关于简历制作的STAR法则，您的了解程度为？
+  
+  ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
+  
+- 您愿意为量身定制的简历花费多少（每份）？
+  
+  ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)
+  
+- 如果可以通过以下方式来支付简历制作费用，代替部分直接支付的形式，您更希望通过以下哪些方式？
+  
+  ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)
+
+- 如果该软件非常符合您的期待，您是否愿意分享给您身边的朋友？
+  
+  ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)
